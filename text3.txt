@@ -2,8 +2,15 @@ another random change
 new name new name
 sad
 asd
+<<<<<<< HEAD
 asdasdasdasdasd
 asd
 ad
 asd
 aasdasdas
+=======
+asd
+asd
+ad
+asd
+>>>>>>> d664b74173ae53a5006bf852aed0b48f6452195e
